@@ -15,5 +15,6 @@ Tableau link:
 
 
 
-### Contact:
-|  [LinkedIn](https://www.linkedin.com/in/baressi/)  |  [GitHub](https://github.com/baressiym)  |
+### Let's get in touch!
+
+|  [LinkedIn](https://www.linkedin.com/in/baressi/)  |  [GitHub](https://github.com/baressiym)  | [Tableau](https://public.tableau.com/app/profile/baressi.yehezkiel) |
